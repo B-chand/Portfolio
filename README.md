@@ -1,21 +1,10 @@
-Portfolio
+Personal portfolio website showcasing my projects, skills, and work.
 
-My personal portfolio website to showcase my projects, skills, and experience.
-
-Features
-
-Responsive design
-
-Projects showcase
-
-Skills section
-
-About & contact information
-
-Tech Stack
-
+Tech:
 HTML
-
 CSS
-
 JavaScript
+
+Author
+Bibek Chand
+GitHub: https://github.com/B_chand
